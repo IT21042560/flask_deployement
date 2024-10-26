@@ -1,0 +1,9 @@
+flask
+flask_cors
+flask_pymongo
+bson
+datetime
+ultralytics
+PIL
+keras
+sklearn
