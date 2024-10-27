@@ -1,9 +1,8 @@
-flask
+flask=3.0.3
 flask_cors
 flask_pymongo
 bson
 datetime
-ultralytics
-PIL
+ultralytics=8.2.6
 keras
 sklearn
