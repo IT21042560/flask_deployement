@@ -5,4 +5,4 @@ bson
 datetime
 ultralytics==8.2.6
 keras
-sklearn
+scikit-learn
